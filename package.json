@@ -1,7 +1,15 @@
 {
+  "scripts": {
+    "start": "node node_modules/moleculer/bin/moleculer-runner --hot --repl"
+  },
   "dependencies": {
     "moleculer": "^0.14.31",
+    "moleculer-db": "^0.8.24",
+    "moleculer-db-adapter-sequelize": "^0.2.15",
     "moleculer-repl": "^0.7.4",
-    "moleculer-web": "^0.10.6"
+    "moleculer-web": "^0.10.6",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.33.0"
   }
 }
