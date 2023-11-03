@@ -1,0 +1,60 @@
+Index: .idea/jpa-buddy.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/jpa-buddy.xml b/.idea/jpa-buddy.xml
+new file mode 100644
+--- /dev/null	(date 1698690341382)
++++ b/.idea/jpa-buddy.xml	(date 1698690341382)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="JpaBuddyIdeaProjectConfig">
++    <option name="renamerInitialized" value="true" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1698690341375)
++++ b/.idea/vcs.xml	(date 1698690341375)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1698690341364)
++++ b/.idea/misc.xml	(date 1698690341364)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++  <component name="ProjectType">
++    <option name="id" value="jpab" />
++  </component>
++</project>
+\ No newline at end of file
+diff --git a/.idea/moleculer-test.iml b/.idea/moleculer-test.iml
+new file mode 100644
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
